@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### 👋Hi there, I am ViRuS-Khan-Sb.
+👯I am a game developer.
+🌱 I’m currently learning unity.
+🤔 I’m looking for help with coding games.
 <!--
 **ViRuSKhanSb/ViRuSKhanSb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
