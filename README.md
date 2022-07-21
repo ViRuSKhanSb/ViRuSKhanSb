@@ -1,4 +1,4 @@
-### 👋Hi there, I am ViRuS-Khan-Sb.
+### 👋Hi, I am ViRuS-Khan-Sb.
 👯I am a game developer.
 🌱 I’m currently learning unity.
 🤔 I’m looking for help with coding games.
